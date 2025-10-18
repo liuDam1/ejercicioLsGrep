@@ -1,7 +1,7 @@
 # Programa LsGrep
 
 Este programa en Java ejecuta un comando "ls" y luego filtra su salida para mostrar solo las líneas que contienen la letra "a" utilizando el comando "grep a".
-> https://github.com/liuDam1/ejercicioLsGrep 
+> https://github.com/liuDam1/ejercicioLsGrep.git
 
 ## Diagrama de Secuencia
 
